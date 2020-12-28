@@ -1,0 +1,1 @@
+{"name":"Tasks","description":"","version":"1","manifest_version":2,"app":{"background":{"scripts":["background.js"]}},"icons":{"512":"tasks.png"}}

@@ -1,0 +1,1 @@
+chrome.app.runtime.onLaunched.addListener(function(){var e=800,t=600;window.open("https://tasks.google.com/embed/?origin=https://mail.google.com","newwin","height="+t+"px,width="+e+"px,top="+(screen.height/2-t/2)+",left="+(screen.width/2-e/2))});
